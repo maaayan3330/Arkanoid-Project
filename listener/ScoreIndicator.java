@@ -1,5 +1,3 @@
-// 212437453 Maayan Ifergan
-
 package listener;
 import sprites.Sprite;
 import game.Counter;
