@@ -1,4 +1,3 @@
-// 212437453 Maayan Ifergan
 package geometricShapes;
 import java.util.ArrayList;
 import java.util.List;
