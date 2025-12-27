@@ -1,5 +1,3 @@
-// 212437453 Maayan Ifergan
-
 import game.Game;
 /**
  * @author Maayan Ifergan
