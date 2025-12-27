@@ -1,5 +1,3 @@
-// 212437453 Maayan Ifergan
-
 package game;
 import ball.Ball;
 import listener.HitListener;
