@@ -1,5 +1,3 @@
-// 212437453 Maayan Ifergan
-
 package ball;
 import geometricShapes.Point;
 
