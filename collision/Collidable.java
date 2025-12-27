@@ -1,5 +1,3 @@
-// 212437453 Maayan Ifergan
-
 package collision;
 import geometricShapes.Rectangle;
 import geometricShapes.Point;
