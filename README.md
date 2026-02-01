@@ -1,4 +1,4 @@
-# 🧱 Arkanoid Game – Java Implementation
+# Arkanoid Game – Java Implementation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange" />
@@ -7,20 +7,20 @@
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
-An object-oriented implementation of the classic **Arkanoid** arcade game, developed in **Java** as part of an academic learning process.
+An object-oriented implementation of the classic **Arkanoid** arcade game, developed in Java as part of an academic learning process.
 
-This project emphasizes **clean software design**, **modular architecture**, and **real-time game mechanics**, with a strong focus on **OOP principles**, **event-driven programming**, and **game loop management**.
+This project emphasizes clean software design, modular architecture, and real-time game mechanics, with a strong focus on OOP principles, event-driven programming, and game loop management.
 
 ---
 
-## 🎮 Game Overview
+## Game Overview
 
 Arkanoid is a brick-breaking game where the player controls a paddle at the bottom of the screen to bounce a ball upward.  
-The objective is to **destroy all bricks** while preventing the ball from falling below the paddle.
+The objective is to destroy all bricks while preventing the ball from falling below the paddle.
 
 ---
 
-## ⚙️ Core Mechanics
+## Core Mechanics
 
 - 🏐 Ball movement with realistic reflection
 - 🎮 Paddle control via keyboard input
@@ -31,7 +31,7 @@ The objective is to **destroy all bricks** while preventing the ball from fallin
 
 ---
 
-## 🧠 Software Design
+## Software Design
 
 ### Object-Oriented Architecture
 Each game component is implemented as a **separate class** with clear responsibilities:
@@ -46,7 +46,7 @@ This separation improves **maintainability**, **readability**, and **extensibili
 
 ---
 
-## 💥 Collision Detection System
+## Collision Detection System
 
 - Handles interactions between:
   - Ball and walls
